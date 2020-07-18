@@ -6,3 +6,4 @@
 * RUN
 * CMD
 * EXPOSE
+- [ENV](https://github.com/Rice-Ratthawan/Assignment-Translate-Dockerfile/blob/anthikaji/ENV.md)
