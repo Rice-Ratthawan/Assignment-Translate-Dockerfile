@@ -11,4 +11,4 @@ FROM [--platform=<platform>] <image>[@<digest>] [AS <name>]
 ``
 - Tag/digest: ถ้าไม่ใส่builderจะให้มันเป็นlatest tag ถ้าbuilderหาtagไม่เจอจะเกิดerror
 - As name: ตั้งชื่อstage
-- --platform=<platform>: ใช้บอกว่าimageมาจากplatformไหนในกรณีที่คำสั่งFROMเอาimageมาจากหลายๆplatform
+- --platform=<platform>: ใช้บอกว่าimageมาจากplatformไหนไว้ใช้ในกรณีที่คำสั่งFROMเอาimageมาจากหลายๆplatform
