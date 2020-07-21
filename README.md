@@ -1,13 +1,13 @@
-# Best Practice for Writing Dockerfiles
+# [Best Practice for Writing Dockerfiles](https://github.com/Rice-Ratthawan/Assignment-Translate-Dockerfile/blob/master/best-practices.md)
 
 ## General guidelines and recommendations
 
-- [Create ephemeral containers]()
-- [Understand build context]()
-- [Pipe Dockerfile through stdin]()
-- [BUILD AN IMAGE USING A DOCKERFILE FROM STDIN, WITHOUT SENDING BUILD CONTEXT]()
-- [BUILD FROM A LOCAL BUILD CONTEXT, USING A DOCKERFILE FROM STDIN]()
-- [BUILD FROM A REMOTE BUILD CONTEXT, USING A DOCKERFILE FROM STDIN]()
+- [Create ephemeral containers](https://github.com/Rice-Ratthawan/Assignment-Translate-Dockerfile/blob/master/create-ephemeral-container.md)
+- [Understand build context](https://github.com/Rice-Ratthawan/Assignment-Translate-Dockerfile/blob/master/Understand-build-context.md)
+- [Pipe Dockerfile through stdin](https://github.com/Rice-Ratthawan/Assignment-Translate-Dockerfile/blob/master/Pipe-dockerfile-through-stdin.md)
+- [BUILD AN IMAGE USING A DOCKERFILE FROM STDIN, WITHOUT SENDING BUILD CONTEXT](https://github.com/Rice-Ratthawan/Assignment-Translate-Dockerfile/blob/master/build-dockerfile-from-stdin.md)
+- [BUILD FROM A LOCAL BUILD CONTEXT, USING A DOCKERFILE FROM STDIN](https://github.com/Rice-Ratthawan/Assignment-Translate-Dockerfile/blob/master/build-docker-local.md)
+- [BUILD FROM A REMOTE BUILD CONTEXT, USING A DOCKERFILE FROM STDIN](https://github.com/Rice-Ratthawan/Assignment-Translate-Dockerfile/blob/master/build-dockerfile-from-stdin.md)
 
 ## Dockerfile instructions
 
