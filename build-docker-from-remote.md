@@ -3,7 +3,7 @@
 ## Build from a remote build context, using a Dockerfile from stdin
 
 ใช้ syntax เพื่อสร้าง image โดยใช้ไฟล์จากรีโมต `git` repository,
-ใช้ `Dockerfile` จาก `stdin`. ใช้ syntax `-f` (หรือ `--file`) เพื่อเลือก `Dockerfile` ที่ใช้ โดยการใช้สัญลักษณ์ hyphen (`-`) เป็นตัวแทนของ filename เพื่อให้ Docker อ่าร `Dockerfile` จาก `stdin`:
+ใช้ `Dockerfile` จาก `stdin`. ใช้ syntax `-f` (หรือ `--file`) เพื่อระบุ `Dockerfile` ที่ใช้ โดยการใช้สัญลักษณ์ hyphen (`-`) เป็นตัวแทนของ filename เพื่อให้ Docker อ่าร `Dockerfile` จาก `stdin`:
 
 ```bash
 docker build [OPTIONS] -f- PATH
