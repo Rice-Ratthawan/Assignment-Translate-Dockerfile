@@ -14,4 +14,4 @@ FROM [--platform=<platform>] <image>[@<digest>] [AS <name>]
 
 **As name**: ตั้งชื่อstage
 
-**'[--platform=<platform>]'**: ใช้บอกว่าimageมาจากplatformไหนไว้ใช้ในกรณีที่คำสั่งFROMเอาimageมาจากหลายๆplatform
+**`--platform=<platform>`**: ใช้บอกว่าimageมาจากplatformไหนไว้ใช้ในกรณีที่คำสั่งFROMเอาimageมาจากหลายๆplatform
